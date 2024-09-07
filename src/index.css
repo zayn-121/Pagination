@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+}
+
+.active-btn{
+  background-color: #000;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.btn{
+  transition: all 0.3s;
+}
+
+.btn:hover{
+  background-color: #000;
+  color: #fff;
+}
